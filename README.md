@@ -16,3 +16,13 @@
 ### Alternative:
 
 ```effort: 1```
+
+
+## State
+
+| State    | Description                                                                                   | Label      |
+|----------|-----------------------------------------------------------------------------------------------|------------|
+| approved | Proceed as approved.                                                                          | `state: approved` |
+| blocked  | Action is currently blocked.                                                                  | `state: blocked`  |
+| inactive | No action needed or possible at this time. The issue is resolved, addressed elsewhere, or out of scope. | `state: inactive` |
+| pending  | Awaiting requirements, dependencies, data, or further information.                            | `state: pending`  |
