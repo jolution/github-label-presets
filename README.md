@@ -12,3 +12,7 @@
 | XL      | 8     | 4 days                           |
 | XXL     | 13    | epic   |
 
+### Examples:
+
+```effort: 1```
+```effort: XS```
