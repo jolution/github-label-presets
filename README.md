@@ -20,9 +20,9 @@
 
 ## State
 
-| State    | Description                                                                                   | Label      |
-|----------|-----------------------------------------------------------------------------------------------|------------|
-| approved | Proceed as approved.                                                                          | `state: approved` |
-| blocked  | Action is currently blocked.                                                                  | `state: blocked`  |
-| inactive | No action needed or possible at this time. The issue is resolved, addressed elsewhere, or out of scope. | `state: inactive` |
-| pending  | Awaiting requirements, dependencies, data, or further information.                            | `state: pending`  |
+| State    | Description                                                                                   | Hex Code                                                                                 | Label      |
+|----------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|------------|
+| approved | Proceed as approved.                                                                          | ![388E3C](https://placehold.it/16x16/388E3C?text=) #388E3C                               | `state: approved` |
+| blocked  | Action is currently blocked.                                                                  | ![F44336](https://placehold.it/16x16/F44336?text=) #F44336                               | `state: blocked`  |
+| inactive | No action needed or possible at this time. The issue is resolved, addressed elsewhere, or out of scope. | ![9E9E9E](https://placehold.it/16x16/9E9E9E?text=) #9E9E9E                               | `state: inactive` |
+| pending  | Awaiting requirements, dependencies, data, or further information.                            | ![FFEB3B](https://placehold.it/16x16/FFEB3B?text=) #FFEB3B                               | `state: pending`  |
