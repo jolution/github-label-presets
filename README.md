@@ -3,16 +3,16 @@
 
 ## Effort
 
-| Label   | Point | Day (example)                              |
-|---------|-------|----------------------------------|
-| XS      | 1     | 0.5 day                          |
-| S       | 2     | 1 day                            |
-| M       | 3     | 2 days                           |
-| L       | 5     | 3 days                           |
-| XL      | 8     | 4 days                           |
-| XXL     | 13    | epic   |
+| Label | Point | Day                            | Hex Code                                                                                 | Examples     |
+|-------|-------|--------------------------------|------------------------------------------------------------------------------------------|--------------|
+| XS    | 1     | 0.5 day                        | ![388E3C](https://placehold.it/16x16/388E3C?text=) #388E3C                               | `effort: XS`  |
+| S     | 2     | 1 day                          | ![8BC34A](https://placehold.it/16x16/8BC34A?text=) #8BC34A                               | `effort: S`  |
+| M     | 3     | 2 days                         | ![CDDC39](https://placehold.it/16x16/CDDC39?text=) #CDDC39                               | `effort: M`  |
+| L     | 5     | 3 days                         | ![FFEB3B](https://placehold.it/16x16/FFEB3B?text=) #FFEB3B                               | `effort: L`  |
+| XL    | 8     | 4 days                         | ![FF9800](https://placehold.it/16x16/FF9800?text=) #FF9800                               | `effort: XL` |
+| XXL   | 13    | This should be an epic ideally | ![F44336](https://placehold.it/16x16/F44336?text=) #F44336                               | `effort: XXL`|
 
-### Examples:
+
+### Alternative:
 
 ```effort: 1```
-```effort: XS```
