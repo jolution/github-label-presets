@@ -26,3 +26,15 @@
 | blocked  | Action is currently blocked.                                                                  | ![F44336](https://placehold.it/16x16/F44336?text=) #F44336                               | `state: blocked`  |
 | inactive | No action needed or possible at this time. The issue is resolved, addressed elsewhere, or out of scope. | ![9E9E9E](https://placehold.it/16x16/9E9E9E?text=) #9E9E9E                               | `state: inactive` |
 | pending  | Awaiting requirements, dependencies, data, or further information.                            | ![FFEB3B](https://placehold.it/16x16/FFEB3B?text=) #FFEB3B                               | `state: pending`  |
+
+## Type
+
+| Type      | Label          | Desc | Hex Code |
+|-----------|-----------------|------|----------|
+| bug       | `type: bug`       |      | ![#F44336](https://placehold.it/16x16/F44336?text=) #F44336 |
+| chore     | `type: chore`     |      | ![#FFEB3B](https://placehold.it/16x16/FFEB3B?text=) #FFEB3B |
+| docs      | `type: docs`      |      | ![#FFEB3B](https://placehold.it/16x16/FFEB3B?text=) #FFEB3B |
+| feature   | `type: feature`   |      | ![#2196F3](https://placehold.it/16x16/2196F3?text=) #2196F3 |
+| fix       | `type: fix`       |      | ![#388E3C](https://placehold.it/16x16/388E3C?text=) #388E3C |
+| security  | `type: security`  |      | ![#F44336](https://placehold.it/16x16/F44336?text=) #F44336 |
+| testing   | `type: testing`   |      | ![FF9800](https://placehold.it/16x16/FF9800?text=) #FF9800 |
