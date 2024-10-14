@@ -1,6 +1,12 @@
 # github-label-presets
  :octocat:  GitHub Labels that make sense both visually and contextually for us. The labels from this repo will be synced to others nightly.
 
+ You can view and explore all the available labels in this repository [here](https://github.com/jolution/github-label-presets/labels).
+
+## Future Plans
+
+In the future, we plan to include a GitHub Action in this repository based on [sizeup-action](https://github.com/lerebear/sizeup-action), which will help automate effort estimates and label assignment for issues and pull requests. This action will streamline the workflow for reviewing code effectively, inspired by the guidelines shared in [this article](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/).
+
 ## Effort
 
 | Label | Point | Day                            | Hex Code                                                                                 | Examples     |
